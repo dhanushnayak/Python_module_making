@@ -1,0 +1,2 @@
+red = "Rice, wheat, sugarcane, maize,corn, groundnut, ragi   potato, oil seeds, pulses, millets , mango, orange, citrus,  vegetables"
+aluvial = "Cotton","Rice","Wheat","Bajra","Jute","Tobacco","Green gram,Chickpea"
